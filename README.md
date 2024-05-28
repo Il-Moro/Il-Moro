@@ -1,16 +1,36 @@
-## Hi there 👋
+# FILIPPO MORELLO
 
-<!--
-**Il-Moro/Il-Moro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Chi sono
 
-Here are some ideas to get you started:
+Sono uno studente dell'Università di Trieste che attualmente sta studiando Intelligenza Artificiale e Data Science. 
+Ho un po' di esperienza in linguaggio c, Python e Bash e ho una conoscenza di base del java, javascript e php.
+Sono molto curioso e sto portando avanti anche studi personali oltre ai normali corsi universitari:
+  - su piattaforme online
+      DataCamp seguo corsi per imparare l'utilizzo dei database e linguaggi come SQL per le query
+      Hack The Box sto imparando le basi della sicurezza informatica
+      LeetCode e CodeWars permettono di svolgere esercezi per assimilare meglio
+  - Oltre a manuali 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contattami
+
+- **Email:** [filmor04@gmail.com](filmor04@gmail.com)
+
+## Skills
+
+- **Linguaggi di Programmazione:**
+  - Python
+  - C
+  - Bash
+
+- **Tecnologie Web:**
+  - HTML
+  - CSS
+  - JavaScript
+
+- **Database:**
+  - SQL
+
+## Altro
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Il-Moro&show_icons=true&theme=radical)

@@ -7,3 +7,6 @@
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Il-Moro&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Il-Moro&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Il-moro&theme=radical) |
 | --- | --- | --- |
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&pause=1000&color=14F005&random=false&width=500&height=70&lines=Wake+up%2C%E3%80%8C%CE%BC%CF%86%E3%80%8D...;The+Github+has+you!;Follow+the+black+Octocat.)](https://git.io/typing-svg)

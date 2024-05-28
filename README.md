@@ -9,3 +9,16 @@
 | --- | --- | --- |
 
 ---
+
+<script>
+function blink() {
+  var element = document.getElementById('typing-text');
+  setInterval(function() {
+    element.style.visibility = (element.style.visibility == 'hidden' ? '' : 'hidden');
+  }, 500); // Cambia la velocità del lampeggio modificando il valore 500 (millisecondi)
+}
+window.onload = blink;
+</script>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&size=22&color=800020&center=true&vCenter=true&width=500&height=70&lines=Down+to+the+rabbit+HOLE...)
+

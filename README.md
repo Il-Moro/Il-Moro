@@ -9,5 +9,3 @@
 | --- | --- | --- |
 
 ---
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&size=22&color=800020&center=true&vCenter=true&width=500&height=70&lines=Down+to+the+rabbit+HOLE...)

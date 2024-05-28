@@ -39,3 +39,9 @@ Sono molto curioso e sto portando avanti anche studi personali oltre ai normali 
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Il-Moro&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Il-Moro&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Il-Moro&theme=react-dark)
+
+

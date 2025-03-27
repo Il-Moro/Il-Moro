@@ -4,8 +4,8 @@
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Il-Moro&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Il-Moro&layout=compact&theme=radical) | [![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Il-Moro)](https://visitor-badge.glitch.me/badge?page_id=Il-Moro) |
-| --- | --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Il-Moro&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Il-Moro&layout=compact&theme=radical) |
+| --- | --- |
 
 ---
 

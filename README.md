@@ -4,7 +4,7 @@
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Il-Moro&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Il-Moro&layout=compact&theme=radical) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Il-moro&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/Il-moro) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Il-Moro&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Il-Moro&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Il-moro&theme=radical) |
 | --- | --- | --- |
 
 ---

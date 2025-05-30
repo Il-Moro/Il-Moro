@@ -9,4 +9,4 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&size=22&color=ffffff&center=true&vCenter=true&width=500&height=70&lines=DOWN+THE+RABBIT+H(ELL)OLE...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&size=22&color=ffffff&center=true&vCenter=true&width=500&height=70&lines=DOWN+THE+RABBIT+H(ELL)OLE...) a

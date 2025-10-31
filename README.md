@@ -23,11 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![m0r0's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0r0&show_icons=true&theme=tokyonight&hide_border=true)  
-
----
-
 ### 🧩 Featured Projects
 [to update]
 

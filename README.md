@@ -1,34 +1,30 @@
-# 👋 Hi, I'm Filippo Morello 
+#### "Hello there"
+#### "General Morello..."
 
-🎓 Artificial Intelligence & Data Analytics student  
-💡 Passionate about AI, and Linux-based systems   
-🧠 Always learning something new (usually by breaking things first)
-
----
-
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-
-![Database](https://img.shields.io/badge/Database-003B57?style=flat&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
-
+Ok, no jokes. Hi, I'm Filippo Morello.
 
 ---
 
-### 🧩 Featured Projects
-[to update]
+**Studies**
+- AI & Data Analytics @ UniTS
+
+**Programming**
+- C, Python, Bash scripting
+- Java — Gradle, JUnit, TDD
+- SQL, MATLAB, R
+
+**Python libraries**
+- NumPy, Pandas, GurobiPy
+- Scikit-Learn, PyTorch, Matplotlib, Seaborn
+- z3-solver
+
+**Markup & other**
+- Markdown, LaTeX (scientific papers)
+- HTML, CSS (basics)
+
 
 ---
 
-### 📫 Contact
-📧 `email to update`
-
----
+[![Email](https://img.shields.io/badge/filippo.morello@proton.me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:filippo.morello@proton.me)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Il-m0r0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Il-Moro)
